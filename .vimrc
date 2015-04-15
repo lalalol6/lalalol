@@ -11,8 +11,8 @@ set showmode                                    " show current mode at the botto
 set visualbell                                  " get rid of sounds
 set hidden                                      " buffers can exist in background
 syntax on                                       " syntax highlighting
-set scrolloff=999				                " always edit in the middle
-set autochdir					                " cd into directory of files
+set scrolloff=999				                        " always edit in the middle
+set autochdir					                          " cd into directory of files
 
 " ==============================
 " Indentation
@@ -38,8 +38,8 @@ colorscheme desert                              " favourite, so colorufl
 set background=dark                             " terminal is dark themed
 set t_Co=256                                    " more colors
 let g:molokai_original=0                        " use original monokai background 
-set showmatch					                " show matching brackets
-set ruler					                    " show line number on the bar
+set showmatch					                          " show matching brackets
+set ruler					                              " show line number on the bar
 
 " ==============================
 " Folding
@@ -53,7 +53,7 @@ set nofoldenable                                " do not fold by default
 " ==============================
 set wrap                                        " wrap lines
 set linebreak                                   " wrap lines at convenient places
-set nolist					                    " list disables linebreak
+set nolist					                            " list disables linebreak
 
 " ==============================
 " Searching words
